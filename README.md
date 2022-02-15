@@ -11,4 +11,3 @@ Hieronder vind je alle oefeningen voor de training Versiebeheer met Git
 - [Oefening 7](oefening-7.md)
 - [Oefening 8](oefening-8.md)
 - [Oefening 9](oefening-9.md)
-- [Oefening 10](oefening-10.md)
